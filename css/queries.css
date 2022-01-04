@@ -1,0 +1,79 @@
+/* for devices with width of 1000px or more */
+
+@media (min-width: 1000px) {
+  body::before{
+    background-image: url(../images/bg-header-desktop.svg);
+  }
+
+  .filters{
+    padding: 25px 0 10px 30px;
+  }
+  
+  .clear-btn{
+    padding: 0 40px 0;
+  }
+
+  .inactive{
+    height: 80px;
+  }
+  .jobs-container{
+    margin-top: 40px;
+  }
+  
+  .job{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  .job hr{
+    display: none;
+  }
+  .left-side{
+    display: flex;
+  }
+  .left-side img{
+    width: 100px;
+    height: 100px;
+    margin: 0;
+  }
+  .left-side > div{
+    margin-left: 20px;
+  }
+  .job-info{
+    margin: 10px 0 0;
+  }
+  .job-filters{
+    margin: 0;
+  }
+  .job-filters .filter{
+    margin: 0 20px 0 0;
+  }
+}
+
+
+/* for devices with width of 1280px or more */
+
+@media (min-width: 1280px) {
+  .filters-container,
+  .jobs-container{
+    width: 75%;
+  }
+}
+
+
+/* for devices with width of 1280px or more */
+
+@media (min-width: 1360px) {
+  .filters{
+    padding: 25px 0 10px 60px;
+  }
+  
+  .clear-btn{
+    padding: 0 60px 0;
+  }
+
+  .job{
+    padding: 20px 60px;
+  }
+}
