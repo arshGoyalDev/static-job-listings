@@ -10,11 +10,6 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Filter job listings based on the categories
 
-### Links
-
-- [Solution URL](https://www.frontendmentor.io/solutions/static-job-listings-with-filtering-9gCEV7pK9)
-- [Live Site URL](https://static-job-listings-developingweb.vercel.app)
-
 ## Built with
 
 - Semantic HTML5 markup
@@ -24,4 +19,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@developingWeb](https://www.frontendmentor.io/profile/developingWeb)
+- Frontend Mentor - [@arshGoyalDev](https://www.frontendmentor.io/profile/arshGoyalDev)
